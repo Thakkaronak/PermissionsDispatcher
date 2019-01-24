@@ -1,3 +1,4 @@
+
 # PermissionsDispatcher [![Build Status](https://travis-ci.org/permissions-dispatcher/PermissionsDispatcher.svg?branch=master)](https://travis-ci.org/permissions-dispatcher/PermissionsDispatcher)
 
 - [**Kotlin support**](https://github.com/hotchemi/PermissionsDispatcher/blob/master/doc/kotlin_usage.md)
@@ -10,7 +11,9 @@ This library lifts the burden that comes with writing a bunch of check statement
 
 For more information please see [the website](https://permissions-dispatcher.github.io/).
 
+
 ## License
+
 
 ```
 Copyright 2016 Shintaro Katafuchi, Marcel Schnelle, Yoshinori Isogai
